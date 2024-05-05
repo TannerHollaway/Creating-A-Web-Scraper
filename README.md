@@ -20,7 +20,7 @@ Fist install beautifulsoup which is an HTML parsing library: <br/>
 <br />
 
 <p align="center">
-Importing the libraries needed. BeautifulSoup for HTML parsing and "requests" which is used to make requests to web servers: <br/> 
+Importing the libraries needed. BeautifulSoup for HTML parsing and requests which is used to make requests to web servers: <br/> 
 <img src="https://i.imgur.com/X4eRGcv.png" height="80%" width="80%" alt="Web Scraper"/>
 <br />
 <br />
