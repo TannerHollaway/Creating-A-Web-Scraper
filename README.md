@@ -61,6 +61,6 @@ I want the author and the quote to be side by side so that there's no confusion 
 <br />
 
 <p align="center">
-Done!: <br/> 
+And that's it. From there it can be converted to a CSV file or multiple other things!  <br/> 
 
 
