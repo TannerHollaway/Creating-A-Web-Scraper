@@ -7,8 +7,9 @@ Creating a webscraper to better my skills with python and practise data collecti
 
 <h2>Utilities Used</h2>
 
-- <b>Python 3</b> 
-- <b>Windows 10 desktop</b>
+- <b>Python 3</b>
+- <b>Windows 11</b>
+- </b>quotes.toscrape.com</b>
 
 <h2>Program walk-through:</h2>
 
