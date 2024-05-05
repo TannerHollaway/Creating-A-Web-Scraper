@@ -25,7 +25,7 @@ Importing the libraries needed. BeautifulSoup for HTML parsing and "requests" wh
 <br />
 
 <p align="center">
-Using the webside quotes.to.scrape.com I'm wanting to scrape the quotes and the authors. First I have to identify how these items are identified in HTML (The Quote and the Author): <br/> 
+Using the webside quotes.toscrape.com, I'm wanting to scrape the quotes and the authors. First I have to identify how these items are identified in HTML (The Quote and the Author): <br/> 
 <img src="https://i.imgur.com/TDqQHEo.png" height="80%" width="80%" alt="Web Scraper"/>
 <br />
 <br />
